@@ -1,0 +1,26 @@
+<svg width="1200" height="630" viewBox="0 0 1200 630" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Kumpir Haus Ehrenfeld social cover">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#fff3de"/>
+      <stop offset="100%" stop-color="#f1b866"/>
+    </linearGradient>
+    <linearGradient id="chip" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#d7673b"/>
+      <stop offset="100%" stop-color="#b84727"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="1200" height="630" fill="url(#bg)"/>
+  <circle cx="1080" cy="110" r="180" fill="#f9d79a" fill-opacity="0.7"/>
+  <circle cx="120" cy="560" r="170" fill="#dee7c9" fill-opacity="0.75"/>
+
+  <rect x="110" y="130" width="120" height="120" rx="60" fill="url(#chip)"/>
+  <text x="170" y="204" text-anchor="middle" font-family="Georgia, serif" font-size="56" font-weight="700" fill="#fff">KH</text>
+
+  <text x="270" y="190" font-family="Georgia, serif" font-size="66" font-weight="700" fill="#2f2018">Kumpir Haus</text>
+  <text x="270" y="258" font-family="Georgia, serif" font-size="66" font-weight="700" fill="#2f2018">Ehrenfeld</text>
+  <text x="270" y="332" font-family="Verdana, sans-serif" font-size="34" fill="#5d493d">Fresh baked potatoes and warm flavors in Cologne</text>
+
+  <rect x="270" y="382" width="300" height="62" rx="14" fill="#2f2018"/>
+  <text x="420" y="423" text-anchor="middle" font-family="Verdana, sans-serif" font-size="28" font-weight="700" fill="#f9e9cf">Open daily 11:30 - 22:00</text>
+</svg>

@@ -1,0 +1,572 @@
+{
+  "de": {
+    "meta": {
+      "home": {
+        "title": "Kumpir Haus Ehrenfeld | Warm Kumpir in Koeln",
+        "description": "Kumpir Haus Ehrenfeld in Koeln: frische Ofenkartoffeln, kreative Toppings und ein warmes Ambiente in Ehrenfeld.",
+        "og_title": "Kumpir Haus Ehrenfeld | Warm Kumpir in Koeln",
+        "og_description": "Frische Kumpir, freundlicher Service und ein moderner Spot in Ehrenfeld.",
+        "twitter_title": "Kumpir Haus Ehrenfeld | Warm Kumpir in Koeln",
+        "twitter_description": "Frische Kumpir, freundlicher Service und ein moderner Spot in Ehrenfeld.",
+        "url": "https://kumpirhaus-ehrenfeld.netlify.app/"
+      },
+      "menu": {
+        "title": "Kumpir Haus Ehrenfeld | Menue",
+        "description": "Menue von Kumpir Haus Ehrenfeld: klassische Kumpir, Spezial-Varianten, Extras und Getraenke.",
+        "og_title": "Kumpir Haus Ehrenfeld | Menue",
+        "og_description": "Entdecke unsere Menue-Kategorien mit beliebten Kumpir-Kombinationen.",
+        "twitter_title": "Kumpir Haus Ehrenfeld | Menue",
+        "twitter_description": "Entdecke unsere Menue-Kategorien mit beliebten Kumpir-Kombinationen.",
+        "url": "https://kumpirhaus-ehrenfeld.netlify.app/menu"
+      },
+      "contact": {
+        "title": "Kumpir Haus Ehrenfeld | Kontakt",
+        "description": "Kontakt und Anfahrt zum Kumpir Haus Ehrenfeld in Koeln. Adresse, Oeffnungszeiten, Telefon und Google Maps.",
+        "og_title": "Kumpir Haus Ehrenfeld | Kontakt",
+        "og_description": "Besuche uns in Ehrenfeld: Venloer Str. 378, taeglich 11:30 bis 22:00.",
+        "twitter_title": "Kumpir Haus Ehrenfeld | Kontakt",
+        "twitter_description": "Besuche uns in Ehrenfeld: Venloer Str. 378, taeglich 11:30 bis 22:00.",
+        "url": "https://kumpirhaus-ehrenfeld.netlify.app/kontakt"
+      },
+      "impressum": {
+        "title": "Kumpir Haus Ehrenfeld | Impressum",
+        "description": "Impressum von Kumpir Haus Ehrenfeld. Pflichtangaben fuer den Standort in Koeln-Ehrenfeld.",
+        "og_title": "Kumpir Haus Ehrenfeld | Impressum",
+        "og_description": "Impressum und Anbieterkennzeichnung fuer Kumpir Haus Ehrenfeld.",
+        "twitter_title": "Kumpir Haus Ehrenfeld | Impressum",
+        "twitter_description": "Impressum und Anbieterkennzeichnung fuer Kumpir Haus Ehrenfeld.",
+        "url": "https://kumpirhaus-ehrenfeld.netlify.app/impressum"
+      },
+      "datenschutz": {
+        "title": "Kumpir Haus Ehrenfeld | Datenschutz",
+        "description": "Datenschutzhinweise von Kumpir Haus Ehrenfeld fuer die Website-Nutzung.",
+        "og_title": "Kumpir Haus Ehrenfeld | Datenschutz",
+        "og_description": "Informationen zu Datenverarbeitung, Rechtsgrundlagen und Betroffenenrechten.",
+        "twitter_title": "Kumpir Haus Ehrenfeld | Datenschutz",
+        "twitter_description": "Informationen zu Datenverarbeitung, Rechtsgrundlagen und Betroffenenrechten.",
+        "url": "https://kumpirhaus-ehrenfeld.netlify.app/datenschutz"
+      }
+    },
+    "a11y": {
+      "skip_to_content": "Zum Inhalt springen",
+      "menu_toggle": "Menue oeffnen"
+    },
+    "brand": {
+      "name": "Kumpir Haus Ehrenfeld"
+    },
+    "nav": {
+      "home": "Start",
+      "menu": "Menue",
+      "contact": "Kontakt"
+    },
+    "hero": {
+      "eyebrow": "Koeln Ehrenfeld",
+      "title": "Kumpir Haus Ehrenfeld",
+      "subtitle": "Frisch gebackene Kartoffeln mit kreativen Toppings, direkt fuer dich zusammengestellt.",
+      "primary_cta": "Jetzt anrufen",
+      "secondary_cta": "Route planen"
+    },
+    "highlights": {
+      "section_title": "Beliebte Favoriten",
+      "section_intro": "Unsere beliebtesten Kombinationen fuer mittags, abends oder den schnellen Hunger.",
+      "badges": [
+        "Taeglich frisch",
+        "Vegetarisch moeglich",
+        "Halal-freundlich"
+      ],
+      "items": [
+        {
+          "name": "Klassik Kumpir",
+          "description": "Butter, kaese, mais, olive und knackiger salat als ausgewogene Basis.",
+          "price": "ab 8.90 EUR"
+        },
+        {
+          "name": "Ehrenfeld Mix",
+          "description": "Wuerzige sauce, sucuk, kaese und frische toppings fuer kraeftigen Geschmack.",
+          "price": "ab 10.50 EUR"
+        },
+        {
+          "name": "Veggie Green",
+          "description": "Humus, kraeuter, gurke, tomate und granatapfel fuer eine leichte Variante.",
+          "price": "ab 9.80 EUR"
+        }
+      ]
+    },
+    "menu_preview": {
+      "section_title": "Menue Vorschau",
+      "section_intro": "Von Klassikern bis Spezial-Kreationen: so schmeckt Ehrenfeld bei uns.",
+      "cta_label": "Ganzes Menue ansehen",
+      "cards": [
+        {
+          "title": "Klassische Kumpir",
+          "description": "Traditionelle Kombinationen mit frischen Zutaten und hausgemachten Saucen."
+        },
+        {
+          "title": "Spezial Kumpir",
+          "description": "Markante Signature-Varianten mit herzhaften und frischen Kontrasten."
+        },
+        {
+          "title": "Extras & Getraenke",
+          "description": "Saucen, Toppings, Salate und kalte Getraenke fuer dein perfektes Set."
+        }
+      ]
+    },
+    "home": {
+      "gallery_title": "Atmosphaere mit Charakter",
+      "gallery_intro": "Ein Ort fuer warmes Essen, freundliche Gesichter und eine entspannte Pause.",
+      "instagram_title": "Taegliche Updates auf Instagram",
+      "instagram_text": "Neue Kombinationen, Tagesideen und frische Eindruecke direkt aus Ehrenfeld.",
+      "instagram_cta": "Instagram ansehen"
+    },
+    "menu_page": {
+      "eyebrow": "Frisch aus dem Ofen",
+      "title": "Unser Menue",
+      "intro": "Klassische Kumpir, kreative Spezialitaeten und passende Extras fuer deinen Geschmack.",
+      "instagram_title": "Taeglich frische Specials",
+      "instagram_text": "Die aktuellsten Kombinationen und Tagesideen findest du immer zuerst auf Instagram.",
+      "instagram_cta": "Folge uns auf Instagram",
+      "categories": [
+        {
+          "title": "Klassische Kumpir",
+          "description": "Beliebte Basis-Kombinationen fuer jeden Tag.",
+          "items": [
+            {
+              "name": "Classic Butter Kaese",
+              "description": "Butter, kaese, mais, olive.",
+              "price": "8.90 EUR"
+            },
+            {
+              "name": "Mediterran",
+              "description": "Kaese, tomate, gurke, paprika, kraeuter.",
+              "price": "9.50 EUR"
+            },
+            {
+              "name": "Hot Chili",
+              "description": "Kaese, jalapeno, scharfe sauce, zwiebel.",
+              "price": "9.80 EUR"
+            }
+          ]
+        },
+        {
+          "title": "Spezial Kumpir",
+          "description": "Unsere Hausfavoriten mit markantem Charakter.",
+          "items": [
+            {
+              "name": "Ehrenfeld Sucuk",
+              "description": "Sucuk, kaese, rote sauce, rucola.",
+              "price": "10.50 EUR"
+            },
+            {
+              "name": "Chicken Delight",
+              "description": "Mariniertes haehnchen, joghurt sauce, salat.",
+              "price": "11.20 EUR"
+            },
+            {
+              "name": "Falafel Green",
+              "description": "Falafel, humus, tahini, frischer salat.",
+              "price": "10.20 EUR"
+            }
+          ]
+        },
+        {
+          "title": "Extras",
+          "description": "Passe deinen Kumpir individuell an.",
+          "items": [
+            {
+              "name": "Extra Kaese",
+              "description": "Schmelzender kaese on top.",
+              "price": "1.20 EUR"
+            },
+            {
+              "name": "Extra Protein",
+              "description": "Sucuk oder chicken als topping.",
+              "price": "2.50 EUR"
+            },
+            {
+              "name": "Hausgemachte Saucen",
+              "description": "Knoblauch, chili, kraeuter oder spezial.",
+              "price": "0.90 EUR"
+            }
+          ]
+        },
+        {
+          "title": "Getraenke",
+          "description": "Kaltes fuer den perfekten Abschluss.",
+          "items": [
+            {
+              "name": "Ayran",
+              "description": "Traditionell und erfrischend.",
+              "price": "2.00 EUR"
+            },
+            {
+              "name": "Softdrinks",
+              "description": "Cola, fanta, sprite.",
+              "price": "2.80 EUR"
+            },
+            {
+              "name": "Wasser",
+              "description": "Still oder sprudel.",
+              "price": "2.20 EUR"
+            }
+          ]
+        }
+      ]
+    },
+    "contact": {
+      "eyebrow": "Direkt in Ehrenfeld",
+      "section_title": "Kontakt & Anfahrt",
+      "page_title": "Kontakt",
+      "page_intro": "Adresse, Oeffnungszeiten und der schnellste Weg zu uns.",
+      "intro": "Wir sind taeglich fuer dich da. Ruf an oder komm direkt vorbei.",
+      "address_label": "Adresse",
+      "address_value": "Venloer Str. 378, 50825 Koeln",
+      "hours_label": "Oeffnungszeiten",
+      "hours_value": "Taeglich 11:30 - 22:00",
+      "phone_label": "Telefon",
+      "phone_value": "+49 15510 139521",
+      "call_label": "Jetzt anrufen",
+      "route_label": "Route planen",
+      "instagram_label": "Instagram folgen",
+      "map_aria": "Google map von Kumpir Haus Ehrenfeld"
+    },
+    "footer": {
+      "tagline": "Frisch. Warm. Ehrenfeld.",
+      "hours_short": "Taeglich 11:30 - 22:00",
+      "follow_label": "Folgen",
+      "instagram_short": "Instagram ansehen",
+      "rights": "Alle Rechte vorbehalten."
+    },
+    "legal_links": {
+      "impressum": "Impressum",
+      "datenschutz": "Datenschutz"
+    },
+    "legal": {
+      "draft_note": "Hinweis: Diese Seite ist eine Vorlage und wird vor dem Livegang rechtlich finalisiert.",
+      "impressum": {
+        "title": "Impressum",
+        "intro": "Pflichtangaben gemaess den in Deutschland geltenden Informationspflichten.",
+        "company_heading": "Anbieter",
+        "owner_heading": "Kontakt",
+        "responsible_heading": "Inhaltlich verantwortlich",
+        "vat_heading": "Umsatzsteuer",
+        "vat_text": "Wird ergaenzt.",
+        "dispute_heading": "Streitbeilegung",
+        "dispute_text": "Die EU-Kommission stellt eine Plattform zur Online-Streitbeilegung bereit.",
+        "dispute_link_label": "Zur EU-Streitbeilegungsplattform"
+      },
+      "datenschutz": {
+        "title": "Datenschutz",
+        "intro": "Informationen zur Verarbeitung personenbezogener Daten auf dieser Website.",
+        "controller_heading": "Verantwortliche Stelle",
+        "data_heading": "Verarbeitete Daten",
+        "data_points": [
+          "Server-Logdaten (IP-Adresse, Browsertyp, Zeitpunkt des Aufrufs).",
+          "Technische Daten zur Auslieferung und Sicherheit der Website.",
+          "Daten durch externe Dienste wie Karten- oder Social-Media-Links, wenn genutzt."
+        ],
+        "purpose_heading": "Zwecke und Rechtsgrundlagen",
+        "purpose_points": [
+          "Stabile und sichere Bereitstellung der Website (berechtigtes Interesse).",
+          "Darstellung von Standortinformationen per Kartenintegration.",
+          "Kommunikationsmoeglichkeit per Telefon und Social-Kanaelen."
+        ],
+        "rights_heading": "Ihre Rechte",
+        "rights_points": [
+          "Auskunft ueber gespeicherte personenbezogene Daten.",
+          "Berichtigung oder Loeschung unrichtiger Daten.",
+          "Einschraenkung der Verarbeitung und Widerspruchsrecht.",
+          "Beschwerderecht bei der zustaendigen Datenschutzaufsicht."
+        ],
+        "contact_heading": "Datenschutz Kontakt",
+        "contact_text": "Bei Fragen zum Datenschutz kontaktieren Sie uns bitte telefonisch.",
+        "update_heading": "Stand",
+        "update_text": "Diese Seite wird vor dem Livegang final rechtlich geprueft."
+      }
+    }
+  },
+  "en": {
+    "meta": {
+      "home": {
+        "title": "Kumpir Haus Ehrenfeld | Warm Kumpir in Cologne",
+        "description": "Kumpir Haus Ehrenfeld in Cologne: fresh baked potatoes, creative toppings and a warm modern atmosphere.",
+        "og_title": "Kumpir Haus Ehrenfeld | Warm Kumpir in Cologne",
+        "og_description": "Fresh kumpir, friendly service and a cozy modern spot in Ehrenfeld.",
+        "twitter_title": "Kumpir Haus Ehrenfeld | Warm Kumpir in Cologne",
+        "twitter_description": "Fresh kumpir, friendly service and a cozy modern spot in Ehrenfeld.",
+        "url": "https://kumpirhaus-ehrenfeld.netlify.app/"
+      },
+      "menu": {
+        "title": "Kumpir Haus Ehrenfeld | Menu",
+        "description": "Menu at Kumpir Haus Ehrenfeld: classic kumpir, signature combinations, extras and drinks.",
+        "og_title": "Kumpir Haus Ehrenfeld | Menu",
+        "og_description": "Explore our menu categories with the most loved kumpir combinations.",
+        "twitter_title": "Kumpir Haus Ehrenfeld | Menu",
+        "twitter_description": "Explore our menu categories with the most loved kumpir combinations.",
+        "url": "https://kumpirhaus-ehrenfeld.netlify.app/menu"
+      },
+      "contact": {
+        "title": "Kumpir Haus Ehrenfeld | Contact",
+        "description": "Contact and directions for Kumpir Haus Ehrenfeld in Cologne. Address, opening hours, phone and Google Maps.",
+        "og_title": "Kumpir Haus Ehrenfeld | Contact",
+        "og_description": "Visit us in Ehrenfeld: Venloer Str. 378, every day 11:30 to 22:00.",
+        "twitter_title": "Kumpir Haus Ehrenfeld | Contact",
+        "twitter_description": "Visit us in Ehrenfeld: Venloer Str. 378, every day 11:30 to 22:00.",
+        "url": "https://kumpirhaus-ehrenfeld.netlify.app/kontakt"
+      },
+      "impressum": {
+        "title": "Kumpir Haus Ehrenfeld | Legal Notice",
+        "description": "Legal notice for Kumpir Haus Ehrenfeld in Cologne.",
+        "og_title": "Kumpir Haus Ehrenfeld | Legal Notice",
+        "og_description": "Provider details and legal notice information.",
+        "twitter_title": "Kumpir Haus Ehrenfeld | Legal Notice",
+        "twitter_description": "Provider details and legal notice information.",
+        "url": "https://kumpirhaus-ehrenfeld.netlify.app/impressum"
+      },
+      "datenschutz": {
+        "title": "Kumpir Haus Ehrenfeld | Privacy",
+        "description": "Privacy information for visitors of the Kumpir Haus Ehrenfeld website.",
+        "og_title": "Kumpir Haus Ehrenfeld | Privacy",
+        "og_description": "Information about data processing, legal bases and user rights.",
+        "twitter_title": "Kumpir Haus Ehrenfeld | Privacy",
+        "twitter_description": "Information about data processing, legal bases and user rights.",
+        "url": "https://kumpirhaus-ehrenfeld.netlify.app/datenschutz"
+      }
+    },
+    "a11y": {
+      "skip_to_content": "Skip to main content",
+      "menu_toggle": "Open menu"
+    },
+    "brand": {
+      "name": "Kumpir Haus Ehrenfeld"
+    },
+    "nav": {
+      "home": "Home",
+      "menu": "Menu",
+      "contact": "Contact"
+    },
+    "hero": {
+      "eyebrow": "Cologne Ehrenfeld",
+      "title": "Kumpir Haus Ehrenfeld",
+      "subtitle": "Fresh oven-baked potatoes with creative toppings, mixed right in front of you.",
+      "primary_cta": "Call now",
+      "secondary_cta": "Get directions"
+    },
+    "highlights": {
+      "section_title": "Popular favorites",
+      "section_intro": "Our most loved combinations for lunch, dinner or a quick bite.",
+      "badges": [
+        "Fresh daily",
+        "Vegetarian options",
+        "Halal-friendly"
+      ],
+      "items": [
+        {
+          "name": "Classic Kumpir",
+          "description": "Butter, cheese, corn, olives and crisp salad as a balanced base.",
+          "price": "from 8.90 EUR"
+        },
+        {
+          "name": "Ehrenfeld Mix",
+          "description": "Spicy sauce, sucuk, cheese and fresh toppings for bold flavor.",
+          "price": "from 10.50 EUR"
+        },
+        {
+          "name": "Veggie Green",
+          "description": "Hummus, herbs, cucumber, tomato and pomegranate for a light profile.",
+          "price": "from 9.80 EUR"
+        }
+      ]
+    },
+    "menu_preview": {
+      "section_title": "Menu preview",
+      "section_intro": "From classics to signature creations, this is Ehrenfeld flavor in one place.",
+      "cta_label": "View full menu",
+      "cards": [
+        {
+          "title": "Classic Kumpir",
+          "description": "Traditional combinations with fresh ingredients and house sauces."
+        },
+        {
+          "title": "Signature Kumpir",
+          "description": "Strong house combinations with savory and fresh contrasts."
+        },
+        {
+          "title": "Extras & Drinks",
+          "description": "Sauces, toppings, salads and cold drinks for your perfect combo."
+        }
+      ]
+    },
+    "home": {
+      "gallery_title": "A place with character",
+      "gallery_intro": "A warm stop for good food, friendly faces and a relaxed break.",
+      "instagram_title": "Daily updates on Instagram",
+      "instagram_text": "See new combinations, daily ideas and snapshots from Ehrenfeld.",
+      "instagram_cta": "Open Instagram"
+    },
+    "menu_page": {
+      "eyebrow": "Fresh from the oven",
+      "title": "Our menu",
+      "intro": "Classic kumpir, signature specials and extras that fit your taste.",
+      "instagram_title": "Fresh specials every day",
+      "instagram_text": "The latest combinations and daily picks are shared first on Instagram.",
+      "instagram_cta": "Follow on Instagram",
+      "categories": [
+        {
+          "title": "Classic Kumpir",
+          "description": "Reliable everyday combinations.",
+          "items": [
+            {
+              "name": "Classic Butter Cheese",
+              "description": "Butter, cheese, corn, olives.",
+              "price": "8.90 EUR"
+            },
+            {
+              "name": "Mediterranean",
+              "description": "Cheese, tomato, cucumber, peppers, herbs.",
+              "price": "9.50 EUR"
+            },
+            {
+              "name": "Hot Chili",
+              "description": "Cheese, jalapeno, spicy sauce, onion.",
+              "price": "9.80 EUR"
+            }
+          ]
+        },
+        {
+          "title": "Signature Kumpir",
+          "description": "House favorites with strong personality.",
+          "items": [
+            {
+              "name": "Ehrenfeld Sucuk",
+              "description": "Sucuk, cheese, red sauce, arugula.",
+              "price": "10.50 EUR"
+            },
+            {
+              "name": "Chicken Delight",
+              "description": "Marinated chicken, yogurt sauce, fresh greens.",
+              "price": "11.20 EUR"
+            },
+            {
+              "name": "Falafel Green",
+              "description": "Falafel, hummus, tahini, fresh salad.",
+              "price": "10.20 EUR"
+            }
+          ]
+        },
+        {
+          "title": "Extras",
+          "description": "Customize your kumpir as you like.",
+          "items": [
+            {
+              "name": "Extra Cheese",
+              "description": "Melted cheese on top.",
+              "price": "1.20 EUR"
+            },
+            {
+              "name": "Extra Protein",
+              "description": "Sucuk or chicken topping.",
+              "price": "2.50 EUR"
+            },
+            {
+              "name": "House Sauces",
+              "description": "Garlic, chili, herb or special.",
+              "price": "0.90 EUR"
+            }
+          ]
+        },
+        {
+          "title": "Drinks",
+          "description": "Cold drinks to complete the meal.",
+          "items": [
+            {
+              "name": "Ayran",
+              "description": "Traditional and refreshing.",
+              "price": "2.00 EUR"
+            },
+            {
+              "name": "Soft drinks",
+              "description": "Cola, fanta, sprite.",
+              "price": "2.80 EUR"
+            },
+            {
+              "name": "Water",
+              "description": "Still or sparkling.",
+              "price": "2.20 EUR"
+            }
+          ]
+        }
+      ]
+    },
+    "contact": {
+      "eyebrow": "Right in Ehrenfeld",
+      "section_title": "Contact & directions",
+      "page_title": "Contact",
+      "page_intro": "Address, opening hours and the fastest way to reach us.",
+      "intro": "We are here for you every day. Call us or stop by directly.",
+      "address_label": "Address",
+      "address_value": "Venloer Str. 378, 50825 Cologne",
+      "hours_label": "Opening hours",
+      "hours_value": "Daily 11:30 - 22:00",
+      "phone_label": "Phone",
+      "phone_value": "+49 15510 139521",
+      "call_label": "Call now",
+      "route_label": "Get directions",
+      "instagram_label": "Follow Instagram",
+      "map_aria": "Google map for Kumpir Haus Ehrenfeld"
+    },
+    "footer": {
+      "tagline": "Fresh. Warm. Ehrenfeld.",
+      "hours_short": "Daily 11:30 - 22:00",
+      "follow_label": "Follow",
+      "instagram_short": "Open Instagram",
+      "rights": "All rights reserved."
+    },
+    "legal_links": {
+      "impressum": "Legal notice",
+      "datenschutz": "Privacy"
+    },
+    "legal": {
+      "draft_note": "Note: This page is a draft template and will be legally finalized before launch.",
+      "impressum": {
+        "title": "Legal notice",
+        "intro": "Mandatory provider information according to applicable German regulations.",
+        "company_heading": "Provider",
+        "owner_heading": "Contact",
+        "responsible_heading": "Content responsibility",
+        "vat_heading": "VAT information",
+        "vat_text": "Will be added.",
+        "dispute_heading": "Dispute resolution",
+        "dispute_text": "The EU Commission provides a platform for online dispute resolution.",
+        "dispute_link_label": "Open EU dispute resolution platform"
+      },
+      "datenschutz": {
+        "title": "Privacy",
+        "intro": "Information on the processing of personal data on this website.",
+        "controller_heading": "Controller",
+        "data_heading": "Processed data",
+        "data_points": [
+          "Server log data (IP address, browser type, timestamp).",
+          "Technical data required for secure website delivery.",
+          "Data involved in external services such as maps or social links when used."
+        ],
+        "purpose_heading": "Purposes and legal bases",
+        "purpose_points": [
+          "Stable and secure website delivery (legitimate interest).",
+          "Display of location information via map integration.",
+          "Communication options via phone and social channels."
+        ],
+        "rights_heading": "Your rights",
+        "rights_points": [
+          "Access to stored personal data.",
+          "Correction or deletion of incorrect data.",
+          "Restriction of processing and right to object.",
+          "Right to lodge a complaint with the competent authority."
+        ],
+        "contact_heading": "Privacy contact",
+        "contact_text": "For privacy-related questions, please contact us by phone.",
+        "update_heading": "Status",
+        "update_text": "This page will be legally reviewed before the final launch."
+      }
+    }
+  }
+}

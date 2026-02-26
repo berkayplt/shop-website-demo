@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://kumpirhaus-ehrenfeld.netlify.app/sitemap.xml

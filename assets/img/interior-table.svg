@@ -1,0 +1,32 @@
+<svg width="1200" height="840" viewBox="0 0 1200 840" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Warm interior placeholder illustration">
+  <defs>
+    <linearGradient id="wall" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#fdf1de"/>
+      <stop offset="100%" stop-color="#f4d5aa"/>
+    </linearGradient>
+    <linearGradient id="table" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#6f4327"/>
+      <stop offset="100%" stop-color="#402315"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="1200" height="840" fill="url(#wall)"/>
+  <rect x="0" y="620" width="1200" height="220" fill="#cfb08f"/>
+  <rect x="90" y="460" width="1020" height="180" rx="26" fill="url(#table)"/>
+  <rect x="120" y="485" width="960" height="24" rx="12" fill="#8c5732" opacity="0.6"/>
+
+  <circle cx="250" cy="150" r="90" fill="#e8c28f"/>
+  <circle cx="950" cy="140" r="110" fill="#dfb077"/>
+  <circle cx="600" cy="120" r="135" fill="#f3cd94" opacity="0.7"/>
+
+  <ellipse cx="320" cy="560" rx="95" ry="65" fill="#fff8ef"/>
+  <ellipse cx="600" cy="560" rx="95" ry="65" fill="#fff8ef"/>
+  <ellipse cx="880" cy="560" rx="95" ry="65" fill="#fff8ef"/>
+
+  <circle cx="320" cy="550" r="25" fill="#d05d3f"/>
+  <circle cx="600" cy="550" r="25" fill="#7ea555"/>
+  <circle cx="880" cy="550" r="25" fill="#f4be52"/>
+
+  <rect x="560" y="240" width="80" height="140" rx="34" fill="#ffd79c"/>
+  <ellipse cx="600" cy="380" rx="55" ry="16" fill="#c8844f" opacity="0.45"/>
+</svg>

@@ -1,0 +1,47 @@
+[build]
+  publish = "."
+
+[[redirects]]
+  from = "/menu"
+  to = "/menu.html"
+  status = 200
+
+[[redirects]]
+  from = "/menu/"
+  to = "/menu.html"
+  status = 200
+
+[[redirects]]
+  from = "/kontakt"
+  to = "/kontakt.html"
+  status = 200
+
+[[redirects]]
+  from = "/kontakt/"
+  to = "/kontakt.html"
+  status = 200
+
+[[redirects]]
+  from = "/impressum"
+  to = "/impressum.html"
+  status = 200
+
+[[redirects]]
+  from = "/impressum/"
+  to = "/impressum.html"
+  status = 200
+
+[[redirects]]
+  from = "/datenschutz"
+  to = "/datenschutz.html"
+  status = 200
+
+[[redirects]]
+  from = "/datenschutz/"
+  to = "/datenschutz.html"
+  status = 200
+
+[[headers]]
+  for = "/assets/*"
+  [headers.values]
+    Cache-Control = "public, max-age=31536000, immutable"
